@@ -1,0 +1,35 @@
+body {
+    background: green;
+}
+
+.card {
+    height: 400px;
+    width: 250px;
+    background: white;
+    border-radius: 5px;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+.top {
+    position: absolute;
+    font-size: 60px;
+    padding-left: 5px;
+    color: red;
+}
+
+.number {
+    position: absolute;
+    font-size: 80px;
+    padding-left: 100px;
+    padding-top: 150px;
+
+}
+
+.bot {
+    position: absolute;
+    font-size: 60px;
+    padding-left: 200px;
+    padding-top: 320px;
+    color: red;
+}
